@@ -15,14 +15,14 @@ sus usuarios.
 ```bash
 apt-get update -y
 apt-get full-upgrade -y
-wget --no-check-certificate https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ALPHA/main/instala.sh
-chmod +x instala.sh*
-./instala.sh*
+wget --no-check-certificate https://raw.githubusercontent.com/AliveDedSec/ADM-MANAGER-ALPHA-RUSSIAN/main/instala.sh
+chmod +x instala.sh
+./instala.sh
 ```
 
 ## :computer: Instalación en una Línea
 ```bash
-apt-get update -y; apt-get full-upgrade -y; wget --no-check-certificate https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ALPHA/main/instala.sh; chmod +x instala.sh* && ./instala.sh*
+apt-get update -y; apt-get full-upgrade -y; wget --no-check-certificate https://raw.githubusercontent.com/AliveDedSec/ADM-MANAGER-ALPHA-RUSSIAN/main/instala.sh; chmod +x instala.sh && ./instala.sh
 ```
 
 :memo: Las dependencias faltantes se instalarán automáticamente durante el proceso.
